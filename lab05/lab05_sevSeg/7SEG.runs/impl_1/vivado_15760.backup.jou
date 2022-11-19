@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sat Nov 19 10:38:04 2022
+# Process ID: 15760
+# Current directory: C:/Users/BerkehanPC/Desktop/usb/7SEG.runs/impl_1
+# Command line: vivado.exe -log segSeven.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source segSeven.tcl -notrace
+# Log file: C:/Users/BerkehanPC/Desktop/usb/7SEG.runs/impl_1/segSeven.vdi
+# Journal file: C:/Users/BerkehanPC/Desktop/usb/7SEG.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source segSeven.tcl -notrace
